@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Danil Ermolin and I currently study in computer science.
+My name is Danil  and I currently study in computer science.
 
 -------------------------------------------------------------------
 
