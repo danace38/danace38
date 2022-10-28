@@ -12,8 +12,8 @@ Here's some of my interests:
 - 🤔 I’m looking for help to improve with career, programming, and interviewing skills.
 - 💬 Ask me about my skills and current projects.
 - 📫 How to reach me: 
-     * Email - danthestrongny42$gmail.com
-     * LinkedIn - https://www.linkedin.com/in/ermodanil/
+     * Email -- danthestrongny42$gmail.com
+     * LinkedIn -- https://www.linkedin.com/in/ermodanil/
 
 
--->
+
