@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**danace38/danace38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Danil Ermolin and I currently study in computer science.
 
-Here are some ideas to get you started:
+-------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here's some of my interests:
+
+- 🔭 I'm currently wokring on getting certifications from AWS and CompTia A+.
+- 🌱 I’m currently learning Java and Cloud Computing.
+- 👯 I’m looking to collaborate on with software development club and forums.
+- 🤔 I’m looking for help to improve with career, programming, and interviewing skills.
+- 💬 Ask me about my skills and current projects.
+- 📫 How to reach me: 
+     * Email - danthestrongny42$gmail.com
+     * LinkedIn - https://www.linkedin.com/in/ermodanil/
+
+
 -->
