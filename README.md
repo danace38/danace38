@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working on improving my programming skills with emphasis on backend.<br>🌱 I’m currently learning Java, Python and Cybersecurity.<br>👯 I’m looking to collaborate on with software development club and forums.<br>🤔 I’m looking for help to improve with career, programming, and interviewing skills.<br>💬 Ask me about my skills and current projects.<br>
 
 
