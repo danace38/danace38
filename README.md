@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My name is Danil and I'm currently studying for my bachelor degree in Computer Science 💻
 
 -------------------------------------------------------------------
 
