@@ -56,7 +56,7 @@
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-      <img alt="supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+      <img alt="supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
     </td>
   </tr>
   <tr>
