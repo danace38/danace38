@@ -1,16 +1,19 @@
 
-# About Me:
-🔭 I'm currently working on improving my programming skills with emphasis on backend.<br>🌱 I’m currently learning Python and Cybersecurity.<br>👯 I’m looking to collaborate on with software development club and forums.<br>🤔 I’m looking for help to improve with career, programming, and interviewing skills.<br>💬 Ask me about my skills and current projects.<br>
+# Hi👋
+
+### About me:
+
+🏫 B.S. Computer Science at CUNY Brooklyn College Alumni<br>📖 I’m currently learning new frameworks, concepts and tools related to Cybersecurity.<br>👯 I’m looking to collaborate with tech professionals.<br>🤔 I’m looking for help to improve with interviewing and soft skills.<br>💬 Ask me about my skills and current projects.<br>
 
 
-## 🌐 LinkedIn/Email:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermodanil/) 
-* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ermodanil@gmail.com) 
+## 🌐 Contacts:
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermodanil/) - My LinkedIn Profile
+* [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ermodanil@gmail.com) - My Email
 
-# 💻 Tech Stack:
+# 💻🛠️ Tech Skills:
 <table>
   <th>Specality</th>
-  <th>Tools, Frameworks, Programming Languages</th>
+  <th>Programming, Frameworks and Tools</th>
   <tr>
     <td>
       <p>Operating Systems</p>
@@ -23,46 +26,51 @@
   </tr>
   <tr>
     <td>
-      <p>Frontend</p>
-    </td>
-    <td>
-      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-      <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-      <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Backend</p>
+      <p>Programming</p>
     </td>
     <td>
       <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-      <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-      <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-      <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-      <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+      <img alt="Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Databases and servers</p>
+      <p>Frameworks/Libraries</p>
+    </td>
+    <td>
+      <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+      <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+      <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+      <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Databases and Servers</p>
     </td>
     <td>
       <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img alt="supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
       <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-      <img alt="supabase" src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge"/>
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Version control</p>
+      <p>Version Control</p>
     </td>
     <td>
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -71,33 +79,28 @@
   </tr>
   <tr>
     <td>
-      <p>IDEs and text editors</p>
+      <p>IDEs and Text Editors</p>
     </td>
     <td>
       <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-      <img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge"/>
       <img alt="IntelliJ" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"/>
+      <img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge"/>
       <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+      <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"/>
       <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Tools/Other</p>
+      <p>Other</p>
     </td>
     <td>
       <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
       <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Currently learning</p>
-    </td>
-    <td>
       <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="Splunk" src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white"/>
+      <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+      <img alt="VirusTotal" src="https://img.shields.io/badge/-VirusTotal-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
     </td>
   </tr>
  </table>
@@ -111,4 +114,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=danace38&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
