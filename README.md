@@ -5,12 +5,13 @@
 
 ### About me:
 
-🏫 B.S. Computer Science at CUNY Brooklyn College Alumni.<br>📖 I’m currently learning new frameworks, concepts and tools related to Cybersecurity.<br>👯 I’m looking to collaborate with tech professionals.<br>🤔 I’m looking for help to improve with interviewing and soft skills.<br>💬 Ask me about my skills and current projects.<br>
+🎓 B.S. Computer Science at CUNY Brooklyn College Alumni.<br>📖 I’m currently learning new frameworks, concepts and tools related to Cybersecurity.<br>👯 I’m looking to collaborate with tech professionals.<br>🤔 I’m looking for help to improve with interviewing and soft skills.<br>💬 Ask me about my skills and current projects.<br>
 
 
 ## 🌐 Contacts:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermodanil/) - My LinkedIn Profile
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ermodanil@gmail.com) - My Email
+
 
 # 💻🛠️ Tech Skills:
 <table>
@@ -106,6 +107,20 @@
     </td>
   </tr>
  </table>
+ 
+ <br></br>
+ 
+ # 📜 Certifications
+| Certificate | Provider | Link | 
+| --- | --- | --- | 
+| Linux Essentials | Linux Professional Institute (LPI) | [Link](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000615020/fbbqhxcctr) |
+| Google Cybersecurity Professional | Coursera x Google | [Link](https://www.credly.com/badges/3e7e8999-c77e-4553-8542-7448c7842adf/linked_in_profile) |
+| AWS Cloud Foundations | AWS Academy | [Link](https://www.credly.com/badges/09d305f3-06c3-4e6c-aa9e-4158902090e4/public_url) |
+| Intermediate Cybersecurity | CodePath | [Link](https://www.linkedin.com/in/ermodanil/details/certifications/1733602344065/single-media-viewer/?profileId=ACoAACtNlpoBYn6YfgeFKGjHtjHbBroeJDWU6aQ) |
+| Intermediate Web Development | CodePath | [Link](https://www.linkedin.com/in/ermodanil/details/certifications/1732911084239/single-media-viewer/?profileId=ACoAACtNlpoBYn6YfgeFKGjHtjHbBroeJDWU6aQ) |
+
+
+
 
 <br></br>
 
