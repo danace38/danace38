@@ -5,7 +5,7 @@
 
 ### About me:
 
-🎓 B.S. Computer Science at CUNY Brooklyn College Alumni.<br>📖 I’m currently learning new frameworks, concepts and tools related to Cybersecurity.<br>👯 I’m looking to collaborate with tech professionals.<br>🤔 I’m looking for help to improve with interviewing and soft skills.<br>💬 Ask me about my skills and current projects.<br>
+🎓 B.S. Computer Science at CUNY Brooklyn College Alumni.<br>📖 I’m currently learning new frameworks, concepts and tools related to Software Development and Cybersecurity.<br>👯 I’m looking to collaborate with tech professionals.<br>🤔 I’m looking for help to improve with interviewing and soft skills.<br>💬 Ask me about my skills and current projects.<br>
 
 
 ## 🌐 Contacts:
